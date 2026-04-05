@@ -1,5 +1,5 @@
 CREDITS:
-Original game by IGB Team
+Original game by IGB Team  (https://gamejolt.com/games/igb_dv/343813)
 
 This is a fan-made mod and is not affiliated with or endorsed by the original developers.
 
