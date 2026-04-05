@@ -1,0 +1,26 @@
+CREDITS:
+Original game by IGB Team
+
+This is a fan-made mod and is not affiliated with or endorsed by the original developers.
+(If the original developers request this mod to be taken down, I will comply.)
+
+All original assets (music, sprites, etc.) belong to their respective owners.
+
+This mod does not include the base game (only the files it changes or adds)
+You must download the original game separately (and paste these files over, press replace when asked).
+
+
+INSTALLATION:
+1. Download the original game
+2. Extract this mod
+3. Copy the contents into the game's folder
+	The game folder should be located in data\Facing Demons\Mods\Facing Demons
+	Copy all the files from this mod folder into this location (you will need to press view game files in gamejolt)
+4. Replace files when prompted
+5. Read the ReadMe or ReadMe_TLDR (shorter version) for info about the mod
+6. Launch the game
+
+7. You can unistall the mod by unistalling the game and reinstalling it 
+
+
+Issues?  Please check the ReadMe.txt for known issues before reporting it
